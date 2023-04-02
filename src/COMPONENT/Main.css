@@ -1,0 +1,16 @@
+main{
+    padding: 0;
+    margin: 5%;
+    box-shadow: -2px -5px 20px 0px #000;
+    border-radius: 8px;
+}
+.bg-cont{
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    width: 25%;
+    background-color: gray;
+    padding: 10px 5px;
+    border-radius: 8px;
+}
